@@ -26,3 +26,6 @@ To use this project:
 
 A demo video and presentation slides (PPT) are available in the repository. You can also access the project report for more details.
 
+## Code Files Location
+
+The code files for this project are located in the `master` branch. While the `main` branch is typically the default branch, please note that the primary development and latest changes can be found in the `master` branch.
